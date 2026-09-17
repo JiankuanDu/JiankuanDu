@@ -4,4 +4,4 @@ Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on Machine Learning.
 - 🎓 I’m a /student interested in Deep Learning.
-- 📫 How to reach me: [22091014@buaa.edu.cn]
+- 📫 How to reach me: [BY2642206@buaa.edu.cn]
